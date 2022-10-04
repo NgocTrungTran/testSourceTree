@@ -1,4 +1,11 @@
 trung
 Sửa and git lên trung-dev
+<<<<<<< HEAD
 Tao La Hang DAy
 Tao Dyaaydfgsags
+=======
+
+Em đây
+>>>>>>> trung-de
+
+ALOOOOOOO
